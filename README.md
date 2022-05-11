@@ -1,6 +1,6 @@
 #CVSSjs
 
-CVSS (Common Vulnerability Scoring System) Calculator
+CVSS (Common Vulnerability Scoring System) Calculator.
 
 <a href="http://cvssjs.github.io/cvssjs">Standalone Calculator</a>
 
